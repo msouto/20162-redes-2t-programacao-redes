@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # O primeiro scirpt python
 import sys #importa um modulo (biblioteca adicional)
 print(sys.platform) #imprime a versao da plataforma S.O.
