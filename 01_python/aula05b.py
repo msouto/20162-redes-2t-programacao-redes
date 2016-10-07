@@ -7,6 +7,7 @@ print(D)
 D['idade']=30
 print('\n')
 print(D)
-del D['idade']
+#del D['idade']
+D.pop('idade')
 print('\n')
 print(D)
